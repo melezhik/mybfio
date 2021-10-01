@@ -1,2 +1,2 @@
 # mybfio
-Everything related to maybe.io 
+Everything related to mybf.io 
