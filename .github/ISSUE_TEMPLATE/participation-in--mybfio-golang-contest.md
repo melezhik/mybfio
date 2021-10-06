@@ -2,7 +2,7 @@
 name: 'participation in #mybfio golang contest'
 about: 'Participation in #mybfio golang contest'
 title: 'Participation in #mybfio golang contest'
-labels: ''
+labels: contest, golang
 assignees: melezhik
 
 ---
