@@ -13,6 +13,6 @@ Link to project on mybfi.io, for example - https://mybf.io/project/sparky/review
 
 # Owners
 
-List owners, aithors or mainteners here. Should be the list of GH accounts. For example:
+List of owners, authors or maintainers here. Should be the list of GH accounts. For example:
 
 - @melezhik
