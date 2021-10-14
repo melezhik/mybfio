@@ -1,5 +1,5 @@
 ---
-name: clain ownership
+name: claim ownership
 about: Claim that you are project owner, author or maintainer
 title: Claim project ownership
 labels: 'ownership'
