@@ -1,13 +1,13 @@
 ---
 name: article request
 about: Request article 
-title: Request article for project
+title: Request an article for project
 labels: 'article-request'
 assignees: 'melezhik'
 
 ---
 
-Please write article about project
+Please write an article about the project
 
 # Project
 
@@ -21,5 +21,5 @@ List of owners, authors or maintainers here. Should be the list of GH accounts. 
 
 # Details
 
-Anything details you'd like to tell here
+Any article details you'd like to mention here
 
