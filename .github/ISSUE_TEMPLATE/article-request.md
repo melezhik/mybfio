@@ -1,6 +1,6 @@
 ---
 name: article request
-about: Request article 
+about: Request an article for the project  
 title: Request an article for the project
 labels: 'article-request'
 assignees: 'melezhik'
