@@ -1,7 +1,7 @@
 ---
 name: article request
 about: Request article 
-title: Request an article for project
+title: Request an article for the project
 labels: 'article-request'
 assignees: 'melezhik'
 
@@ -22,4 +22,3 @@ List of owners, authors or maintainers here. Should be the list of GH accounts. 
 # Details
 
 Any article details you'd like to mention here
-
